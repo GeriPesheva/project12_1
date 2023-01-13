@@ -3,7 +3,7 @@
 
 row1 Hello I am master and Hello I am local branch
 
-row 2 
+row 2 hello from first project
 row 3
 row 4
 row 5 local
