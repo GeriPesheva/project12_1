@@ -1,6 +1,10 @@
  @:) :)
 
+<<<<<<< HEAD
 row1 Hello I am master
+=======
+row1 Hello I am local branch
+>>>>>>> local
 row 2 
 row 3
 row 4
